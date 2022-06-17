@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "name": "gujkhol",
+      "email": "uhlijo@wipro.hgj",
+      "password": "hbjhukh",
+      "id": 1
+    },
+    {
+      "name": "gujkhol",
+      "email": "uhlijo@wipro.hgj",
+      "password": "hbjhukh",
+      "id": 2
+    },
+    {
+      "name": "jdshuokvuho",
+      "email": "kjojiporf@email.com",
+      "password": "klewli",
+      "id": 3
+    },
+    {
+      "name": "jdshuokvuho",
+      "email": "kjojiporf@email.com",
+      "password": "klewli",
+      "id": 4
+    },
+    {
+      "name": "INCHARA Shivaraju B",
+      "email": "kjojiporf@email.com",
+      "password": "1234",
+      "id": 5
+    },
+    {
+      "name": "INCH B",
+      "email": "kjojiporf@email.com",
+      "password": "1234",
+      "id": 6
+    }
+  ]
+}
